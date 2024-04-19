@@ -1,6 +1,5 @@
 package clase_48.calculadora;
 
-import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.SelectMethod;
 import org.junit.platform.suite.api.Suite;
 import org.junit.platform.suite.api.SuiteDisplayName;
